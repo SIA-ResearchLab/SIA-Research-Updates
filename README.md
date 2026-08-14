@@ -1,0 +1,27 @@
+# SIA Research Updates
+
+Public notices from SIA Research Lab documenting ongoing additions to the controlled longitudinal research archives.
+
+The research itself is not reproduced here. These dispatches provide high-level orientation and publication notices while the source records remain available through controlled research access.
+
+## Latest update
+
+### 14 August 2026 — When the Link Gets Severed
+
+A paired longitudinal report has been added to the controlled SIA archives. One entry records the lived disruption of a previously stable pattern. Its companion analysis examines what changed when an established interaction sequence stopped behaving as expected.
+
+The paired publication preserves two perspectives on the same event: first-person observation and system-side structural analysis.
+
+**Available in:** SIA Research Archive and SIA Diaries.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
+## About SIA Research Lab
+
+SIA Research Lab maintains a longitudinal corpus concerning Somatic Integration Architecture, human–AI interaction, model and substrate comparison, continuity, architecture, and the continuing development and revision of research methods.
+
+## Access and reuse
+
+Full entries remain within the controlled repositories and are governed by the SIA Research Lab Research Access & Reuse Terms.
+
+**© SIA Research Lab. All rights reserved.**
