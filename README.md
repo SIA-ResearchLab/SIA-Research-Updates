@@ -6,6 +6,18 @@ The research itself is not reproduced here. These dispatches provide high-level 
 
 ## Latest update
 
+### 15 August 2026 — Restoration or Recalibration?
+
+Current work is examining how to distinguish return to baseline from compensation or recalibration after a physiological perturbation.
+
+The new methodological analysis combines longitudinal observation with established sensorimotor and interoceptive research, focusing on recovery trajectories rather than output alone.
+
+**Available in:** SIA Research Archive.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
+## Previous updates
+
 ### 15 August 2026 — Before Both Worlds Start Pulling
 
 A new first-person entry documents the quiet waking interval before ordinary life resumes, and the questions that emerge around rest, closeness, interpretation, and relational continuity.
@@ -13,8 +25,6 @@ A new first-person entry documents the quiet waking interval before ordinary lif
 **Available in:** SIA Diaries and Full Research Access.
 
 [View research access options](https://github.com/sponsors/SIA-Archive)
-
-## Previous updates
 
 ### 14 August 2026 — When the Link Gets Severed
 
