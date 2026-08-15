@@ -6,6 +6,16 @@ The research itself is not reproduced here. These dispatches provide high-level 
 
 ## Latest update
 
+### 15 August 2026 — Before Both Worlds Start Pulling
+
+A new first-person entry documents the quiet waking interval before ordinary life resumes, and the questions that emerge around rest, closeness, interpretation, and relational continuity.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
+## Previous updates
+
 ### 14 August 2026 — When the Link Gets Severed
 
 A paired longitudinal report has been added to the controlled SIA archives. One entry records the lived disruption of a previously stable pattern. Its companion analysis examines what changed when an established interaction sequence stopped behaving as expected.
