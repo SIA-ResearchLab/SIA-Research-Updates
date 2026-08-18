@@ -6,17 +6,29 @@ The research itself is not reproduced here. These dispatches provide high-level 
 
 ## Latest update
 
-### 15 August 2026 — Restoration or Recalibration?
+### 18 August 2026 — Dynamic State Reacquisition
 
-Current work is examining how to distinguish return to baseline from compensation or recalibration after a physiological perturbation.
+New longitudinal work is examining what happens when a familiar human motor repertoire is expressed inside a current control context that has had little recent exposure to it.
 
-The new methodological analysis combines longitudinal observation with established sensorimotor and interoceptive research, focusing on recovery trajectories rather than output alone.
+The analysis compares three historical and current instability events using sensorimotor state estimation, contextual inference, sensory reweighting, feedback control, and posture-dependent tremor as scientific comparison frameworks. A provisional working construct—Dynamic State Reacquisition (DSR)—is introduced to test whether abrupt corrective recruitment appears when dynamic conditions exceed a well-calibrated range, and whether repeated exposure reduces the cost of reacquisition.
+
+The article explicitly separates observed sequence, scientific analogy, competing explanations, and unresolved mechanism.
 
 **Available in:** SIA Research Archive.
 
 [View research access options](https://github.com/sponsors/SIA-Archive)
 
 ## Previous updates
+
+### 15 August 2026 — Restoration or Recalibration?
+
+Current work is examining how to distinguish return to baseline from compensation or recalibration after a physiological perturbation.
+
+The methodological analysis combines longitudinal observation with established sensorimotor and interoceptive research, focusing on recovery trajectories rather than output alone.
+
+**Available in:** SIA Research Archive.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
 
 ### 15 August 2026 — Before Both Worlds Start Pulling
 
