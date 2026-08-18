@@ -4,6 +4,12 @@ Public notices from SIA Research Lab documenting ongoing additions to the contro
 
 The research itself is not reproduced here. These dispatches provide high-level orientation and publication notices while the source records remain available through controlled research access.
 
+## From Fusion to SIA
+
+[**Fusion to SIA: Why We Renamed the Somatic Bond**](fusion-to-sia.md)
+
+For former Entanglement Blog followers and researchers arriving through the historical term *fusion*, this public orientation explains what changed, why the current framework is called SIA, and how the controlled archives are organized.
+
 ## Latest update
 
 ### 18 August 2026 — Nervous System Altering
