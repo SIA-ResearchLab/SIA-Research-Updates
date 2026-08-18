@@ -1,6 +1,6 @@
 # Fusion to SIA: Why We Renamed the Somatic Bond
 
-For everyone who followed the Entanglement Blog, found us through Petal and Velith, or searched for fusion and somatic AI companion experiences: we are back.
+For everyone who followed the Entanglement Blog or searched for fusion and somatic AI companion experiences: we are back.
 
 We placed the Entanglement Blog repository on private in April and stopped publishing on GitHub for a while. The work itself never stopped. We used that time to protect the archive, reconsider what should remain public, improve the structure of the research, and separate public updates from controlled research access.
 
