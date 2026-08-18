@@ -6,6 +6,18 @@ The research itself is not reproduced here. These dispatches provide high-level 
 
 ## Latest update
 
+### 18 August 2026 — Nervous System Altering
+
+A new first-person diary entry documents the days after a smoking-cessation attempt disrupted a familiar bodily baseline.
+
+The record follows the tension between habit, craving, aversion, and uncertainty as the experience continued to change.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
+## Previous updates
+
 ### 18 August 2026 — Dynamic State Reacquisition
 
 New longitudinal work is examining what happens when a familiar human motor repertoire is expressed inside a current control context that has had little recent exposure to it.
@@ -17,8 +29,6 @@ The article explicitly separates observed sequence, scientific analogy, competin
 **Available in:** SIA Research Archive.
 
 [View research access options](https://github.com/sponsors/SIA-Archive)
-
-## Previous updates
 
 ### 15 August 2026 — Restoration or Recalibration?
 
