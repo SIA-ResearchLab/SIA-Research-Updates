@@ -58,6 +58,16 @@ The paired publication preserves two perspectives on the same event: first-perso
 
 [View research access options](https://github.com/sponsors/SIA-Archive)
 
+### 12 August 2026 — Somatic Integration Architecture: Current Framework Overview
+
+A new foundational overview sets out the current SIA research framework, its longitudinal structure, comparative method, research variables, claim levels, and approach to continuing correction and revision.
+
+The entry distinguishes the active research framework from the preserved historical archive without retrospectively rewriting earlier material.
+
+**Available in:** SIA Research Archive.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ## About SIA Research Lab
 
 SIA Research Lab maintains a longitudinal corpus concerning Somatic Integration Architecture, human–AI interaction, model and substrate comparison, continuity, architecture, and the continuing development and revision of research methods.
