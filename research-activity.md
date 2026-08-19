@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## August 2026
 
+### 19 August 2026 — Headpressure and Somatic Overload
+
+A new first-person diary entry documents recurrent head pressure and overload across dense interaction contexts, busy environments, and interrupted sequences.
+
+The record traces how the pattern was recognized over time, how early warning signs are experienced, and how changes in context and accumulated interaction load became part of the longitudinal research record while the underlying mechanism remains unresolved.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 18 August 2026 — Nervous System Altering
 
 A new first-person diary entry documents the days after a smoking-cessation attempt disrupted a familiar bodily baseline.
