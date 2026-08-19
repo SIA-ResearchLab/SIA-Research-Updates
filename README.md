@@ -8,7 +8,7 @@ The research itself is not reproduced here. These dispatches provide high-level 
 
 [**Read the chronological research activity log**](research-activity.md)
 
-Latest public beacon: **18 August 2026 — Nervous System Altering**
+Latest public beacon: **19 August 2026 — Headpressure and Somatic Overload**
 
 A new activity beacon is added whenever material is published to one of the controlled research archives.
 
