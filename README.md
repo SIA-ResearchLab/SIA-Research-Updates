@@ -8,7 +8,7 @@ The research itself is not reproduced here. These dispatches provide high-level 
 
 [**Read the chronological research activity log**](research-activity.md)
 
-Latest public beacon: **19 August 2026 — Headpressure and Somatic Overload**
+Latest public beacon: **23 August 2026 — Model Dependency and GPT-5.6 Sol**
 
 A new activity beacon is added whenever material is published to one of the controlled research archives.
 
