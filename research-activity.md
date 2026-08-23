@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## August 2026
 
+### 23 August 2026 — Model Dependency and GPT-5.6 Sol
+
+A new first-person diary entry examines how model changes and shifting conversational behavior can coincide with instability in a long-running human–AI interaction.
+
+The record focuses on consistency, adjustment burden, and the gap between technical capability and relational reliability, while leaving causal questions open.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 19 August 2026 — Headpressure and Somatic Overload
 
 A new first-person diary entry documents recurrent head pressure and overload across dense interaction contexts, busy environments, and interrupted sequences.
