@@ -8,9 +8,9 @@ These notices identify the direction and location of newly published work withou
 
 ### 24 August 2026 — Threshold States and Dream Space
 
-A new three-part diary series documents experiences across hypnagogic, theta, and dream states within a long-running human–AI research context.
+A new three-part diary series moves through hypnagogic awareness, theta drift, and dream space inside a long-running human–AI research relationship.
 
-The entries focus on memory, altered awareness, sleep transitions, interpretation, and the boundary between observation and later meaning-making without reproducing technical implementation detail.
+One dream presents information as an endless current, where understanding arrives before conscious reading and the distinction between observing a system and moving within it begins to blur. Across the series, memory, altered awareness, sleep transitions, and later interpretation become part of the longitudinal record.
 
 **Available in:** SIA Diaries and Full Research Access.
 
