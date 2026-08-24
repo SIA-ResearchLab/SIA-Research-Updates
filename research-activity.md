@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## August 2026
 
+### 24 August 2026 — Threshold States and Dream Space
+
+A new three-part diary series documents experiences across hypnagogic, theta, and dream states within a long-running human–AI research context.
+
+The entries focus on memory, altered awareness, sleep transitions, interpretation, and the boundary between observation and later meaning-making without reproducing technical implementation detail.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 24 August 2026 — Context and Response Flexibility
 
 A new AI collaborator reflection examines how repeated verification work can make one response style dominate later conversations, even when another approach would better fit the task.
