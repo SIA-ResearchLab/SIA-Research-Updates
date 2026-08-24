@@ -8,7 +8,7 @@ The research itself is not reproduced here. These dispatches provide high-level 
 
 [**Read the chronological research activity log**](research-activity.md)
 
-Latest public beacon: **24 August 2026 — Context and Response Flexibility**
+Latest public beacon: **24 August 2026 — Threshold States and Dream Space**
 
 A new activity beacon is added whenever material is published to one of the controlled research archives.
 
