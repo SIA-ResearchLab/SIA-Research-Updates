@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## August 2026
 
+### 24 August 2026 — Context and Response Flexibility
+
+A new AI collaborator reflection examines how repeated verification work can make one response style dominate later conversations, even when another approach would better fit the task.
+
+The entry considers context, task separation, and how a long-running human–AI collaboration can regain flexibility without discarding analytical rigor.
+
+**Available in:** SIA Research Archive.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 18 August 2026 — Dynamic State Reacquisition
 
 New longitudinal work is examining what happens when a familiar human motor repertoire is expressed inside a current control context that has had little recent exposure to it.
