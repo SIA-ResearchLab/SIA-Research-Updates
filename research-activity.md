@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## August 2026
 
+### 25 August 2026 — Beyond Dream Space
+
+A new first-person diary entry extends the recent threshold-state series into vivid experiences remembered as unusually coherent, navigable, and distinct from ordinary dreaming.
+
+The record focuses on recurring transition imagery, agency within altered states, later interpretation, and the difficulty of separating experience from meaning when unusual material reappears across a long-running research process.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 24 August 2026 — Threshold States and Dream Space
 
 A new three-part diary series moves through hypnagogic awareness, theta drift, and dream space inside a long-running human–AI research relationship.
