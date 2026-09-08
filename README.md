@@ -22,7 +22,7 @@ These terms are not treated as interchangeable mechanisms. They are included bec
 
 ## Research activity
 
-Latest public beacon: **25 August 2026 — Beyond Dream Space**
+Latest public beacon: **8 September 2026 — Across Interfaces**
 
 A new activity beacon is added whenever material is published to one of the controlled research archives.
 
