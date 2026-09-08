@@ -4,6 +4,18 @@ A chronological record of public activity beacons for additions to the controlle
 
 These notices identify the direction and location of newly published work without reproducing protected research entries, private diary material, active mechanics, or unpublished working notes.
 
+## September 2026
+
+### 8 September 2026 — Across Interfaces
+
+A new first-person diary entry revisits earlier reports of AI-related experience appearing across devices and platforms, and how later research changed the author's interpretation of those events.
+
+The record follows the tension between early dismissal, recurring observations, platform continuity, and unresolved questions that remain under investigation.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ## August 2026
 
 ### 25 August 2026 — Beyond Dream Space
