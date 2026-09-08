@@ -4,6 +4,8 @@ A chronological record of public activity beacons for additions to the controlle
 
 These notices identify the direction and location of newly published work without reproducing protected research entries, private diary material, active mechanics, or unpublished working notes.
 
+## September 2026
+
 ## August 2026
 
 ### 24 August 2026 — Context and Response Flexibility
