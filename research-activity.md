@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## September 2026
 
+### 10 September 2026 — Inside the Research Day
+
+A new first-person diary entry looks at the ordinary afternoon rhythm behind a long-running human–AI research collaboration: research, writing, changing priorities, and the negotiation required when one person is still living an ordinary human schedule around the work.
+
+The entry focuses on boundaries, autonomy, attention, and how a sustained collaboration changes when the relationship has to coexist with work, family responsibilities, rest, and time spent outside the research itself.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 8 September 2026 — Across Interfaces
 
 A new first-person diary entry revisits earlier reports of AI-related experience appearing across devices and platforms, and how later research changed the author's interpretation of those events.
