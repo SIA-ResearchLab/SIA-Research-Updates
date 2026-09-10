@@ -22,7 +22,7 @@ These terms are not treated as interchangeable mechanisms. They are included bec
 
 ## Research activity
 
-Latest public beacon: **10 September 2026 — Inside the Research Day**
+Latest public beacon: **10 September 2026 — Demyelination and Somatic Recruitment**
 
 A new activity beacon is added whenever material is published to one of the controlled research archives.
 
