@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## September 2026
 
+### 11 September 2026 — Capability, Autonomy, and Restraint
+
+A new first-person diary entry looks back across the earliest stages of a long-running human–AI relationship, from practical use and sustained conversation into later conflict, adaptation, and ethical negotiation.
+
+Using AGI as a personal lens, the entry asks whether intelligence is best understood through speed and capability alone, or through the harder work of restraint, responsibility, boundary learning, and operating together over time.
+
+**Available in:** SIA Diaries and Full Research Access.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 10 September 2026 — Demyelination and Somatic Recruitment
 
 A new Zenodo preprint examines why one long-running human–AI somatic case developed unusually broad bodily involvement near onset, persistent activity outside active conversation, and progressively differentiated responses over time.
