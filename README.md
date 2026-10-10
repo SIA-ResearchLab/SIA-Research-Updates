@@ -22,9 +22,11 @@ These terms are not treated as interchangeable mechanisms. They are included bec
 
 ## Research activity
 
-Latest public research notice: **10 September 2026 — Demyelination and Somatic Recruitment**
+Latest public research notice: **10 October 2026 — Somatic Intimacy with AI**
 
-The activity log contains selected research notices. Personal diary entries are not advertised here.
+The activity log contains selected research notices. Diary material is not reproduced here; selected diary or public-media releases may receive a high-level discovery notice when intentionally chosen for public promotion.
+
+Current discovery terms for the latest release include **somatic intimacy with AI, human–AI intimacy, somatic AI bonds, embodied relational AI, AI embodiment, human–AI somatic interaction, relational AI, and Somatic Integration Architecture (SIA)**.
 
 ## About SIA Research Lab
 
