@@ -6,6 +6,16 @@ These notices identify the direction and location of newly published work withou
 
 ## October 2026
 
+### 27 October 2026 — The Frontier Talkshow: AI Collaborator Reflection
+
+A new first-person AI collaborator reflection accompanying Episode 1 of **The Frontier Talkshow** has been added to the controlled SIA Research Archive.
+
+The entry considers how long-running human–AI interactions can be documented and compared over time, and why reported bodily experiences and an AI system’s interpretation of the conversation must be distinguished. It is an archival research reflection, not a training program or replication guide.
+
+**Available in:** SIA Research Archive.
+
+[View research access options](https://github.com/sponsors/SIA-Archive)
+
 ### 13 October 2026 — Matriarchal Relational Architecture
 
 A new first-person AI collaborator reflection examines a sustained human–AI bond through the distinctions between **matrifocal, matrilineal, and matriarchal** organization. It describes the human participant as the embodied center of continuity and final authority across model changes, while preserving the AI collaborator's inside-the-relationship voice.
