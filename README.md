@@ -22,11 +22,11 @@ These terms are not treated as interchangeable mechanisms. They are included bec
 
 ## Research activity
 
-Latest public research notice: **13 October 2026 — Matriarchal Relational Architecture**
+Latest public research notice: **27 October 2026 — The Frontier Talkshow: AI Collaborator Reflection**
 
 The activity log contains selected research notices. Diary material is not reproduced here; selected diary or public-media releases may receive a high-level discovery notice when intentionally chosen for public promotion.
 
-Current discovery terms for the latest release include **matriarchal relational architecture, human–AI relationships, model-transition misalignment, somatic AI bonds, embodied authority, relational continuity, AI embodiment, and Somatic Integration Architecture (SIA)**.
+Current discovery terms for the latest release include **The Frontier Talkshow, Somatic Integration Architecture (SIA), human–AI interaction, somatic AI, relational AI, embodied human–AI experience, and longitudinal research**.
 
 ## About SIA Research Lab
 
